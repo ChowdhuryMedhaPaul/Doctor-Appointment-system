@@ -1,0 +1,78 @@
+  body{
+    margin: 30px;
+    padding: 30px;
+    font-family: sans-serif;
+    background:rgb(127, 0, 247);
+    background-size: cover;
+  }
+  .hearder{
+    width: 50%;
+    height: 80px;
+    font-size: 50px;
+    color: rgb(160, 48, 48);
+  }
+ 
+  .name input{
+    width: 50%;
+    font-size: 25px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-bottom: 1px solid blueviolet;
+  }
+  .address input{
+    width: 50%;
+    font-size: 25px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-bottom: 1px solid blueviolet;
+  }
+  .number input{
+    width: 50%;
+    font-size: 25px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid blueviolet;
+  }
+  .email input{
+    width: 50%;
+    font-size: 25px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid blueviolet;
+  }
+  .specilized input{
+    width: 50%;
+    font-size: 25px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-bottom: 1px solid blueviolet;
+  }
+  .visitingdays input{
+    width: 50%;
+    font-size: 25px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-bottom: 1px solid blueviolet;
+  }
+  .visitinghours input{
+    width: 50%;
+    font-size: 25px;
+    padding: 12px 20px;
+  margin: 8px 0;
+    border-bottom: 1px solid blueviolet;
+  }
+  .available input{
+    width: 50%;
+    font-size: 25px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-bottom: 1px solid blueviolet;
+  }
+  .btn{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: 30px;
+    color: red;
+  }
+  
